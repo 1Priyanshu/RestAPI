@@ -52,4 +52,8 @@ To get started with the API, follow these steps:
 
 The API uses bcrypt service to securely store and compare passwords. It also utilizes JWT authentication for user login and authorization.
 
+## Usage
+Use mongoDB local or Add your own Mongo Atlas Admin Username, (required to be updated in nodemon.json)
+
+
 
